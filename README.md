@@ -1,2 +1,5 @@
 # cup-off
 깃허브에서 레포지토리 생성방법 공부하기
+
+cup off로 이동, cd cup-off
+
